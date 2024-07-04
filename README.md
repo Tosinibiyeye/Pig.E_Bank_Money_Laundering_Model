@@ -1,5 +1,12 @@
 # Pig.E_Bank_Money_Laundering_Model
 
+
+<div class="col-md-4 mb-4">
+                        <img src="img/Pig E.Bank.jpg" class="img-fluid rounded zoomable" alt="Portfolio Image 1">
+                    </a>
+
+
+
  # Project Overview
 Pig E. Bank is a well-known global bank looking for anti-money laundering and customer retention support. The Pig E. Bank stakeholders are most interested in assessments of client risk and transaction risk, as well as reporting on metrics.
 
